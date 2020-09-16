@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package net.fabricmc.mdect;
 
 import net.fabricmc.fabric.api.event.Event;
 import net.fabricmc.fabric.api.event.EventFactory;

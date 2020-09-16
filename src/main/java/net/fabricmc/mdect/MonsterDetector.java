@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package net.fabricmc.mdect;
 
 import java.util.ArrayList;
 import java.util.HashMap;

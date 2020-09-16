@@ -1,6 +1,6 @@
-package net.fabricmc.example.mixin;
+package net.fabricmc.mdect.mixin;
 
-import net.fabricmc.example.Hooks;
+import net.fabricmc.mdect.Hooks;
 import net.minecraft.client.render.Camera;
 import net.minecraft.client.render.GameRenderer;
 import net.minecraft.client.render.LightmapTextureManager;

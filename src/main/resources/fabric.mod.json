@@ -14,16 +14,16 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/mdect/icon.png",
 
   "environment": "client",
   "entrypoints": {
     "client": [
-      "net.fabricmc.example.MonsterDetector"
+      "net.fabricmc.mdect.MonsterDetector"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "mdect.mixins.json"
   ],
 
   "depends": {
